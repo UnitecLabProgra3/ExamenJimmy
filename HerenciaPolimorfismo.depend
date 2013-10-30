@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1383097307 source:c:\users\auditor3\documents\progra3\herenciapolimorfismo\main.cpp
+	<iostream>
+	<vector>
+	"Personaje.h"
+	"Curador.h"
+	"Tanque.h"
+	"Guerrero.h"
+	"MagoBlanco.h"
+	"MagoOscuro.h"
+
+1383095771 c:\users\auditor3\documents\progra3\herenciapolimorfismo\personaje.h
+	<string>
+	<iostream>
+
+1383096573 source:c:\users\auditor3\documents\progra3\herenciapolimorfismo\personaje.cpp
+	"Personaje.h"
+	<string>
+	<iostream>
+
+1383094504 source:c:\users\auditor3\documents\progra3\herenciapolimorfismo\curador.cpp
+	"Curador.h"
+
+1383094518 c:\users\auditor3\documents\progra3\herenciapolimorfismo\curador.h
+	"Personaje.h"
+
+1383094446 c:\users\auditor3\documents\progra3\herenciapolimorfismo\tanque.h
+	"Personaje.h"
+
+1383094424 source:c:\users\auditor3\documents\progra3\herenciapolimorfismo\tanque.cpp
+	"Tanque.h"
+
+1383097154 source:c:\users\auditor3\documents\progra3\herenciapolimorfismo\magooscuro.cpp
+	"MagoOscuro.h"
+
+1383096300 c:\users\auditor3\documents\progra3\herenciapolimorfismo\magooscuro.h
+	"Personaje.h"
+
+1383096257 source:c:\users\auditor3\documents\progra3\herenciapolimorfismo\guerrero.cpp
+	"Guerrero.h"
+
+1383096335 c:\users\auditor3\documents\progra3\herenciapolimorfismo\guerrero.h
+	"Personaje.h"
+
+1383096400 source:c:\users\auditor3\documents\progra3\herenciapolimorfismo\magoblanco.cpp
+	"MagoBlanco.h"
+
+1383096790 c:\users\auditor3\documents\progra3\herenciapolimorfismo\magoblanco.h
+	"Personaje.h"
+
