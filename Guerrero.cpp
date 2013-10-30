@@ -24,7 +24,7 @@ void Guerrero::imprimir()
 
 void Guerrero::activarPoder()
 {
-    this->puntos_de_ataque=puntos_de_ataque/2;
-    this->hp=hp*2;
+    this->puntos_de_ataque=puntos_de_ataque*2;
+    this->hp=hp/2;
 
 }
